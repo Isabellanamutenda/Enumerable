@@ -11,7 +11,7 @@ class MyList
   end
 end
 
-#codegit branch
+#codegit 
 # Verify solution:
 # Create our list
 list = MyList.new(1, 2, 3, 4)
